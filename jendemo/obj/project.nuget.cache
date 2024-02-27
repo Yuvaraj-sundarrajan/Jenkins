@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "0bgW11sa2b0qx0k3D4QGC2djFc2aUnByDFyvgPHbBLnxjOatTZZ6t4XJ57mR8bKwPPX6+4IWajajZq4hj3EWPw==",
+  "dgSpecHash": "Ui6KykNMPBj+KQOqrRDzF3hIiTb3k8tXJCoDr851OrvP1ACjP4zFam0Dpn8YBZi1+GnQBab9lcnrJQ2svFgUMA==",
   "success": true,
   "projectFilePath": "D:\\Yuvaraj\\Technical activity\\Devops\\Jenkins\\jendemo\\jendemo\\jendemo.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\yuvaraj.sundara\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
   "logs": []
 }
